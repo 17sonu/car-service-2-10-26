@@ -433,8 +433,7 @@ function App() {
           </div>
         </div>
         <div className="copyright">
-          © {new Date().getFullYear()} {b.businessName}. All service details are
-          configurable.
+          © {new Date().getFullYear()} sonu.dev
         </div>
       </footer>
 
