@@ -14,16 +14,16 @@ export const businessInfo = {
         alt: "White Hyundai Xcent far view",
       },
       {
-        src: "/assets/car-side.webp",
+        src: "/assets/car-side.jpeg",
         alt: "White Hyundai Xcent side view",
       },
       {
-        src: "/assets/car-front.webp",
-        alt: "White Hyundai Xcent front view",
+        src: "/assets/car-front.jpeg",
+        alt: "White Hyundai Xcent front seat view",
       },
       {
-        src: "/assets/car-detail.webp",
-        alt: "White Hyundai Xcent front detail",
+        src: "/assets/car-detail.jpeg",
+        alt: "White Hyundai Xcent back seat detail",
       },
     ],
     features: [
